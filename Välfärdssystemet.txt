@@ -1,0 +1,70 @@
+﻿Välfärdssystemet
+Sverige har ett väl utbyggt välfärdssystem.
+
+
+1. Beskriv vad välfärdssystem är och innebär för oss som bor i Sverige
+Ett välfärdssystem är ett system som är skapat för att medborgarna i landet ska ha ett socialt välmående. Olika länder har olika typer av välfärdssystem. I Sverige är välfärdssystemet byggt på så sätt att det är själva individen som är blir kopplat till systemet till skillnad som i andra länder där man kollar på hela familjen.  
+Svensk välfärdssystem:
+* Kopplat till individen.
+* Fördelar:
+   * Billigare skolor.
+   * Skydd vid sjukdom.
+   * Skydd vid arbetslöshet.
+   * Allmänna pensioner.
+   * Garanti pension
+      * Betalas av staten till folk som har haft låga inkomster.
+   * Diverse bidrag (Transfereringar).
+   * Billigare simhallar.
+   * Bibliotek.
+* Nackdelar:
+   * Högre skatt
+Skydd vid Sjukdom:
+* Sjukförsäkringens 2 delar:
+   * Sjuklön eller Sjukpenning:
+      * Ersätter inkomsten vid tillfällig sjukdom.
+      * Först 14 dagarna ersätts sjuklönen (80% av lönen) av arbetsgivaren.
+      * Efter 14 dagar ersätts det av sjukpenning (80% av lönen) som betalas av försäkringskassan upp till 364 dagar.
+   * Sjukersättning:
+      * Fungerar som förtidspension om man är varaktig sjuk.
+      * Vid låg eller ingen inkomst har man rätt till ett garantibelopp.
+      * Finansieras genom arbetsgivaravgifter. Ju större inkomst den anställde har desto större avgift betalar arbetsgivaren.
+SocialTjänsten:
+* För människor med särskilda behov eller inte har rätt till hjälp från välfärdssystemet.
+* Kommunerna sköter socialtjänsten.
+* Delas upp i 2 delar:
+   * Individ och familjeomsorg
+      * Försörjningsstöd (ekonomisk stöd)
+   * Vård och omsorg
+      * För äldre och folk med funktionsnedsättning.
+      * Hemtjänst
+      * Färdtjänst
+Offentliga Sektorn:
+* Staten
+* Landstingen
+* Kommuner sam myndigheter som lyder under dessa
+
+
+Hög samt Låg konjunktur:
+* Högkonjunktur:
+   * Tillväxt i ekonomin.
+   * Produktionen (BNP) ökar.
+   * Arbetslösheten minskar.
+   * Levnadsstandard stiger.
+   * Löner pressas uppåt.
+   * Priser stiger vilket leder till inflation.
+* Inflation:
+   * Leder till problem.
+   * Gör landets produkter dyrare än utländska motsvarigheter.
+   * Leder till att man köper istället importerade varor.
+   * Svårt att exportera egna varor p.g.a höga priser.
+   * Tillväxt i landet minskar vilket leder till arbetslöshet.
+   * Regering och riksbanken undviker inflation genom:
+      * Staten minskar efterfrågan genom att t.ex avvakta med byggen av vägar och annan infrastruktur.
+      * Staten höjer skatterna och sänker bidragen så att vi får pengar att röra oss med.
+      * Riksbanken höjer räntorna så att det blir dyrare att låna pengar och mer lönsamt att spara.
+* Lågkonjunktur:
+   * Stor arbetslöshet.
+   * Regeringens samt riksbankens metoder mot lågkonjunktur:
+      * Staten ökar efterfrågan genom att sätta igång med vägbyggen och andra infrastrukturprojekt.
+      * Staten sänker skatterna och höjer bidragen.
+      * Riksbanken sänker räntorna så att det blir billigare att låna och mindre lönsamt att spara.
