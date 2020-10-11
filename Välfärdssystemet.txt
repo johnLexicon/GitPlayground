@@ -9,6 +9,8 @@ Svensk välfärdssystem:
 * Fördelar:
    * Billigare skolor.
    * Problem vid sjukdom.
+   * Smutsigare skolor.
+   * Skydd vid sjukdom.
    * Skydd vid arbetslöshet.
    * Allmänna pensioner.
    * Garanti pension
