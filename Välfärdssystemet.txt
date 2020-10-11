@@ -7,6 +7,8 @@ Ett välfärdssystem är ett system som är skapat för att medborgarna i landet
 Svensk välfärdssystem:
 * Kopplat till individen.
 * Fördelar:
+   * Billigare skolor.
+   * Problem vid sjukdom.
    * Smutsigare skolor.
    * Skydd vid sjukdom.
    * Skydd vid arbetslöshet.
@@ -66,5 +68,5 @@ Hög samt Låg konjunktur:
    * Stor arbetslöshet.
    * Regeringens samt riksbankens metoder mot lågkonjunktur:
       * Staten ökar efterfrågan genom att sätta igång med vägbyggen och andra infrastrukturprojekt.
-      * Staten sänker skatterna och höjer bidragen.
-      * Riksbanken sänker räntorna så att det blir billigare att låna och mindre lönsamt att spara.
+      * Staten höjer skatterna och höjer bidragen.
+      * Riksbanken höjer räntorna så att det blir billigare att låna och mindre lönsamt att spara.
