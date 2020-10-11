@@ -11,7 +11,7 @@ Svensk välfärdssystem:
    * Skydd vid sjukdom.
    * Skydd vid arbetslöshet.
    * Allmänna pensioner.
-   * Garanti pension
+   * Garanti gäller ej pension
       * Betalas av staten till folk som har haft låga inkomster.
    * Diverse bidrag (Transfereringar).
    * Billigare simhallar.
